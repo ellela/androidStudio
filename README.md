@@ -1,0 +1,2 @@
+# androidStudio
+project.app.PrisKompis
